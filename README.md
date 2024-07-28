@@ -86,10 +86,4 @@ JWT (JSON Web Tokens) for authentication
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-### Additional Notes
 
-1. **Ensure the `.env` file is included in your `.gitignore` file** to prevent sensitive information from being pushed to the repository.
-2. **Update the GitHub repository URL** in the `README.md` file with your actual repository URL.
-3. **Add additional sections as needed** based on your project requirements.
-
-By providing a detailed `README.md` file, you ensure that other developers can understand, set up, and use your backend server effectively.
